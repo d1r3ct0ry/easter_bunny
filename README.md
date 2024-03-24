@@ -19,6 +19,7 @@ python easter.py
 6. Navigate to the directory where you downloaded the program.
 7. Run the command: python easter_bunny.py.
 8.Follow the prompts to input the quantity of guests, along with their names and email addresses.
+
 9.Once all information is provided, emails will be sent out.
 
 Note: It's currently not possible to edit the email of a participant, but this feature may be implemented in the future.
