@@ -6,7 +6,7 @@ The "Easter Bunny Secret Santa" program provides an automated solution to this p
 
 Sintax:
 
-python easter_bunny.py
+python easter.py
 
 How to use:
 1. You have to configure the SMTP e-mail, with your login and password. For now, i've setted an google account called easterbunny568@gmail.com and it's own google app password. You can set up any e-mail you want.
