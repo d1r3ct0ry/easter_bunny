@@ -10,15 +10,16 @@ python easter_bunny.py
 
 How to use:
 1. You have to configure the SMTP e-mail, with your login and password. For now, i've setted an google account called easterbunny568@gmail.com and it's own google app password. You can set up any e-mail you want.
-   Ps.: Don't be mean, the i know keys are public, and that's not a good pratic. Should be implemented at any time in the future.
 
-2. Checkout the easter_bunny.py
-3. Make sure you have Python 3 installed
-4. Make sure python is setted up in your windows path
-5. Open CMD
-6. Navigate to the path you downloaded it
-7. python easter_bunny.py
-8. Now you will be asked for the quantity of guests, their names and e-mails.
-9. Once you have filled, e-mails will be sent.
+Ps.: Don't be mean, I know keys are public, and that's not a good pratic. Should be revised at any time in the future.
+
+3. Checkout the easter_bunny.py
+4. Make sure you have Python 3 installed
+5. Make sure python is setted up in your windows path
+6. Open CMD
+7. Navigate to the path you downloaded it
+8. python easter_bunny.py
+9. Now you will be asked for the quantity of guests, their names and e-mails.
+10. Once you have filled, e-mails will be sent.
 
 * It's not possible to edit the e-mail of an participant. Should be implemented any time soon.
