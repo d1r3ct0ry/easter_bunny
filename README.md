@@ -1,25 +1,23 @@
-Problem:
-Organizing a Secret Santa event for Easter can be a fun activity, but manually assigning participants to each other and informing them of their matches can be time-consuming and error-prone. Additionally, ensuring secrecy and fairness in the assignment process can be challenging.
+**Problem:**
+Organizing a Secret Santa event for Easter can be an enjoyable endeavor. However, manually assigning participants to one another and communicating their matches can be tedious and prone to errors. Additionally, maintaining secrecy and fairness throughout the assignment process presents its own set of challenges.
 
-Solution:
-The "Easter Bunny Secret Santa" program provides an automated solution to this problem. It allows event organizers to input the names and email addresses of participants, and then randomly assigns each participant a Secret Santa recipient. The program handles the assignment process securely and efficiently, ensuring that each participant receives their match without knowing who else is participating or who their Secret Santa is. It also sends out personalized emails to each participant, informing them of their assigned recipient, thus streamlining the communication process and adding to the festive atmosphere of the event. Overall, the program simplifies the organization of Easter-themed Secret Santa events, making it a hassle-free and enjoyable experience for all involved.
+**Solution:**
+The "Easter Bunny Secret Santa" program offers an automated solution to address these issues. It enables event organizers to input the names and email addresses of participants, after which it randomly assigns each participant a Secret Santa recipient. The program handles this assignment process securely and efficiently, ensuring that each participant receives their match without any knowledge of who else is participating or who their Secret Santa is. Furthermore, the program sends personalized emails to each participant, notifying them of their assigned recipient. This not only streamlines the communication process but also enhances the festive ambiance of the event. Overall, the program simplifies the organization of Easter-themed Secret Santa events, providing a hassle-free and enjoyable experience for all involved.
 
-Sintax:
-
+**Syntax:**
+```bash
 python easter.py
 
-How to use:
-1. You have to configure the SMTP e-mail, with your login and password. For now, i've setted an google account called easterbunny568@gmail.com and it's own google app password. You can set up any e-mail you want.
+**How to Use:**
 
-Ps.: Don't be mean, I know keys are public, and that's not a good pratic. Should be revised at any time in the future.
+1. Configure the SMTP email settings with your login and password. Currently, the program is set to use a Google account named easterbunny568@gmail.com and its corresponding Google app password. You can configure any email account of your choice. Note: While the keys are public, this practice is not recommended and should be revised in the future.
+2. Check out the easter_bunny.py file.
+3. Ensure that Python 3 is installed on your system.
+4. Make sure Python is added to your Windows PATH.
+5. Open the Command Prompt (CMD).
+6. Navigate to the directory where you downloaded the program.
+7. Run the command: python easter_bunny.py.
+8.Follow the prompts to input the quantity of guests, along with their names and email addresses.
+9.Once all information is provided, emails will be sent out.
 
-3. Checkout the easter_bunny.py
-4. Make sure you have Python 3 installed
-5. Make sure python is setted up in your windows path
-6. Open CMD
-7. Navigate to the path you downloaded it
-8. python easter_bunny.py
-9. Now you will be asked for the quantity of guests, their names and e-mails.
-10. Once you have filled, e-mails will be sent.
-
-* It's not possible to edit the e-mail of an participant. Should be implemented any time soon.
+Note: It's currently not possible to edit the email of a participant, but this feature may be implemented in the future.
