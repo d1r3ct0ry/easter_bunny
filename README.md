@@ -1,2 +1,5 @@
-# easter_bunny
- The "Easter Bunny Secret Santa" program is a Python script designed to facilitate the organization of an Easter-themed Secret Santa event. It allows users to input the name and email of participants, shuffles the list of participants, and sends emails to each participant informing them who their Secret Santa recipient is.
+Problem:
+Organizing a Secret Santa event for Easter can be a fun activity, but manually assigning participants to each other and informing them of their matches can be time-consuming and error-prone. Additionally, ensuring secrecy and fairness in the assignment process can be challenging.
+
+Solution:
+The "Easter Bunny Secret Santa" program provides an automated solution to this problem. It allows event organizers to input the names and email addresses of participants, and then randomly assigns each participant a Secret Santa recipient. The program handles the assignment process securely and efficiently, ensuring that each participant receives their match without knowing who else is participating or who their Secret Santa is. It also sends out personalized emails to each participant, informing them of their assigned recipient, thus streamlining the communication process and adding to the festive atmosphere of the event. Overall, the program simplifies the organization of Easter-themed Secret Santa events, making it a hassle-free and enjoyable experience for all involved.
