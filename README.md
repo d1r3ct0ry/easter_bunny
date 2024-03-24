@@ -6,7 +6,7 @@ The "Easter Bunny Secret Santa" program offers an automated solution to address 
 
 **Syntax:**
 ```bash
-python easter.py
+python easter.py```
 
 **How to Use:**
 
